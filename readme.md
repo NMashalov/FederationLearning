@@ -4,7 +4,7 @@ My participation in project on gradient free methods
 
 
 Presentation:
-
+[here](Convex_optim.pdf)
 
 Datasets are represented in:
 - https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
